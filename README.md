@@ -1,95 +1,55 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
+<div align="center">
 
-<h3 align="center">
-IT Infrastructure & Security | Azure • Active Directory • Networking
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&section=header&text=Harry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
-<p align="center">
-Computer Information Systems Graduate <br>
-CompTIA Network+ • CompTIA Security+ <br>
-Focused on Networking, Cloud, System Administration & Cybersecurity
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=IT+Infrastructure+%26+Security;Azure+%E2%80%A2+Networking+%E2%80%A2+Active+Directory;CompTIA+Network%2B+%7C+Security%2B;Building+Real+Labs+%26+Projects"/>
+
+</div>
 
 ---
 
-<h2>🚀 About Me</h2>
-
-<ul>
-  <li>📡 Building hands-on networking and infrastructure labs</li>
-  <li>🔐 Learning cybersecurity and enterprise security concepts</li>
-  <li>☁️ Working with Microsoft Azure & cloud technologies</li>
-  <li>🖥️ Practicing Active Directory & Windows Server administration</li>
-  <li>🧠 Expanding skills in routing, switching, and troubleshooting</li>
-</ul>
-
----
-
-<h2>🛠️ Technologies & Tools</h2>
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=azure,linux,github,bash,powershell" />
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=shield&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GNS3-Labs-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Packet_Tracer-Cisco-green?style=for-the-badge" />
-
-</p>
-
----
-
-<h2>📂 Featured Projects</h2>
-
-<ul>
-  <li>🔹 Enterprise Networking Labs</li>
-  <li>🔹 VLAN, Routing & Switching Configurations</li>
-  <li>🔹 Azure Cloud Practice Labs</li>
-  <li>🔹 Active Directory Home Lab</li>
-  <li>🔹 Cybersecurity & Infrastructure Documentation</li>
-</ul>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOURLINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Profile-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
 </a>
 
-</p>
+<a href="https://linkedin.com/in/YOURLINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=0A84FF"/>
+
+</div>
 
 ---
 
-<h3 align="center">
-💡 “Learning by Building Real Labs & Projects”
-</h3>
+# 🧊 About Me
+
+```swift
+class Harry {
+
+    let role = "IT Infrastructure & Security"
+
+    let certifications = [
+        "CompTIA Network+",
+        "CompTIA Security+"
+    ]
+
+    let technologies = [
+        "Microsoft Azure",
+        "Active Directory",
+        "Cisco Networking",
+        "Windows Server",
+        "Linux"
+    ]
+
+    let focus = [
+        "Cloud Infrastructure",
+        "Cybersecurity",
+        "Enterprise Networking",
+        "System Administration"
+    ]
+}
