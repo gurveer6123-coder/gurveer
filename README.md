@@ -1,18 +1,113 @@
-<h1>Hi 👋, I'm Gurveer</h1>
-<p>Network & Systems Administrator | Azure • AD • Security+</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/gurveer123/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gurveer6123-coder&show_icons=true&locale=en" alt="gurveer6123-coder" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurveer6123-coder&" alt="gurveer6123-coder" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurveer6123-coder&show_icons=true&locale=en&layout=compact" alt="gurveer6123-coder" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurveer6123-coder" alt="gurveer6123-coder" /></a></p>
+<div align="left">
+
+# 👋 Hey, I'm Harry
+
+<p>
+  <strong>IT Infrastructure & Security | Azure • Active Directory • Networking</strong>
+</p>
+
+<hr>
+
+## 🛠️ Skills and Expertise
+
+<p>
+
+<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48" />
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" />
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="48" height="48" />
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48" />
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="48" height="48" />
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48" />
+</a>
+
+</p>
+
+<br>
+
+**Networking:** VLANs, Routing & Switching, RIP, OSPF, EIGRP, Cisco Packet Tracer, GNS3  
+
+**System Administration:** Active Directory, Windows Server, Group Policy, User Management  
+
+**Cloud & Security:** Microsoft Azure, Security+, Infrastructure Security, Network Troubleshooting  
+
+**Tools & Platforms:** Git, Linux, Bash, GitHub, Virtual Machines  
+
+<hr>
+
+## 🧩 About Me
+
+<p>
+I'm a Computer Information Systems graduate focused on networking, infrastructure, cloud technologies, and cybersecurity. I enjoy building real-world labs, improving troubleshooting skills, and learning enterprise-level systems through hands-on projects and documentation.
+</p>
+
+<p>
+Currently working on networking labs, Azure infrastructure practice, Active Directory environments, and security-focused configurations.
+</p>
+
+<br>
+
+<a href="https://linkedin.com/in/YOURLINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p>
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"
+alt="stats"
+/>
+</p>
+
+<p>
+<img align="center"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark-blue&hide_border=true"
+alt="streak"
+/>
+</p>
+
+<p>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+alt="languages"
+/>
+</p>
+
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img
+src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=8"
+alt="trophies"
+/>
+</a>
+</p>
+
+<hr>
+
+<p>
+<i>💡 Learning infrastructure by building real labs and solving real problems.</i>
+</p>
+
+</div>
