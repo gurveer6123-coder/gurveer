@@ -1,18 +1,95 @@
-<h1>Hi 👋, I'm Gurveer</h1>
-<p>Network & Systems Administrator | Azure • AD • Security+</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/gurveer123/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gurveer6123-coder&show_icons=true&locale=en" alt="gurveer6123-coder" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurveer6123-coder&" alt="gurveer6123-coder" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurveer6123-coder&show_icons=true&locale=en&layout=compact" alt="gurveer6123-coder" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurveer6123-coder" alt="gurveer6123-coder" /></a></p>
+<h1 align="center">Hi 👋, I'm Harry</h1>
+
+<h3 align="center">
+IT Infrastructure & Security | Azure • Active Directory • Networking
+</h3>
+
+<p align="center">
+Computer Information Systems Graduate <br>
+CompTIA Network+ • CompTIA Security+ <br>
+Focused on Networking, Cloud, System Administration & Cybersecurity
+</p>
+
+---
+
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>📡 Building hands-on networking and infrastructure labs</li>
+  <li>🔐 Learning cybersecurity and enterprise security concepts</li>
+  <li>☁️ Working with Microsoft Azure & cloud technologies</li>
+  <li>🖥️ Practicing Active Directory & Windows Server administration</li>
+  <li>🧠 Expanding skills in routing, switching, and troubleshooting</li>
+</ul>
+
+---
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=azure,linux,github,bash,powershell" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=shield&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GNS3-Labs-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Packet_Tracer-Cisco-green?style=for-the-badge" />
+
+</p>
+
+---
+
+<h2>📂 Featured Projects</h2>
+
+<ul>
+  <li>🔹 Enterprise Networking Labs</li>
+  <li>🔹 VLAN, Routing & Switching Configurations</li>
+  <li>🔹 Azure Cloud Practice Labs</li>
+  <li>🔹 Active Directory Home Lab</li>
+  <li>🔹 Cybersecurity & Infrastructure Documentation</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOURLINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+💡 “Learning by Building Real Labs & Projects”
+</h3>
